@@ -1,0 +1,54 @@
+Fiche du candidat
+
+-Cas passants
+  -Je peux consulter les informations de ce candidat
+  -Je peux commenter ce candidat
+  -Je peux contacter ce candidat
+  -Je peux changer le statut de ce candidat
+  -Je peux évaluer ce candidat
+  -Je peux ajouter un document à ce candidat
+  -Je peux modifier ce candidat
+  -Je peux déplacer ce candidat
+  -Je peux archiver ce candidat
+  -Je peux aimer ce candidat
+  -Je peux recommander ce candidat
+  -Je peux ne pas recommander ce candidat
+  -Je peux anonymiser ce candidat
+  -Je peux télécharger ce candidat en CSV
+  -Je peux suivre ce candidat
+  -Je peux consulter les recruteurs notifiés
+  -Je peux consulter les autres candidatures de ce candidat
+  -Je peux évaluer le candidat
+  -Je peux modifier les critères d'évaluation du candidat
+  -Je peux ajouter une remarque à l'évaluation du candidat
+  -Je peux utiliser un template d'email
+  -Je peux refuser et envoyer un email auto rempli
+
+-Cas non passants
+ -Je ne peux pas créer un candidat sans Prénom
+ -Je ne peux pas créer un candidat sans Nom
+ -Je ne peux pas créer un candidat sans email
+ -Je ne peux pas renseigner une adresse email erronée
+ -Je ne peux pas renseigner une URL erronée
+ -Je ne peux pas uploader un fichier dans un format autre que pdf, doc, docx, odt
+ -Je ne peux pas uploader une image dans un format autre que jpg, jpeg, png, gif
+ -Je ne peux pas envoyer un email sans sujet
+ -Je ne peux pas encoyer un email sans message
+ -Je ne peux pas ajouter une remarque sans texte
+ -Je ne peux pas ajouter un commentaire sans text
+
+
+Dashboard
+-Cas passants
+  -Je peux passer le candidat en statut "refusé"
+  -Je peux passer le candidat en statut "à rencontrer"
+  -Je peux passer le candidat en statut "entretien"
+  -Je peux passer le candidat en statut "proposition"
+  -Je peux passer le candidat en statut "embauché"
+  -Je peux archiver une colonne
+  -Je peux éditer une colonne
+  -Je peux changer le statut de plusieurs candidats
+  -Je peux envoyer un email à plusieurs candidats
+  -Je peux commenter plusieurs candidats
+  -Je peux déplacer plusieurs candidats
+  -Je peux archiver plusieurs candidats
